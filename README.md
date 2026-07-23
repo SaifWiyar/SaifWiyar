@@ -138,3 +138,76 @@ An online learning platform helping students build careers in:
 - Data Science
 - Artificial Intelligence
 - Machine Learning
+
+---
+
+# Featured Projects
+
+## 🌍 AfghanLink Digital Ecosystem
+
+A large-scale multilingual digital ecosystem designed to connect communities through integrated online services.
+
+AfghanLink brings multiple platforms together into one ecosystem:
+
+- 🎓 Education Portal
+- 💼 Jobs & Career Platform
+- 🛒 Marketplace
+- 🏥 Healthcare & Doctor Services
+- 🏠 Property Platform
+- 🚗 Vehicle & Transportation Services
+- 🍽️ Food Services
+- 💻 Freelancing & Skills Platform
+- 🏢 Business & Service Directory
+
+### Technologies:
+
+- Python
+- Django
+- PostgreSQL
+- Docker
+- REST APIs
+- Modern Web Architecture
+- Multilingual & RTL Support
+
+
+---
+
+## ☀️ Raise Solar Company Management System
+
+A complete desktop business management application developed for solar companies to manage daily operations efficiently.
+
+### Key Features:
+
+- Customer Management
+- Invoice Generation
+- Expense Tracking
+- Business Records
+- Reports Dashboard
+- Offline Desktop Deployment
+
+### Technologies:
+
+- Python
+- Django
+- SQLite
+- Bootstrap
+- JavaScript
+
+
+---
+
+## 🤖 AI & NLP Research Projects
+
+Working on Artificial Intelligence solutions focusing on:
+
+- Natural Language Processing
+- Machine Learning Models
+- Language Technology
+- Data-driven Applications
+- AI-powered Education Systems
+
+Research interests:
+
+- Low-resource language processing
+- NLP for regional languages
+- Intelligent learning systems
