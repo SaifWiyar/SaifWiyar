@@ -71,6 +71,66 @@ A technology studio focused on:
 
  **Founder — Saif Online Academy**
 
+ ---
+
+# 🧠 Data Science & Artificial Intelligence Expertise
+
+I work on building intelligent systems by combining **data, algorithms, and software engineering**.
+
+## 🤖 Artificial Intelligence
+
+- Artificial Intelligence Engineering
+- Machine Learning Model Development
+- Deep Learning Architectures
+- AI Model Training & Optimization
+- Intelligent Automation Systems
+
+## 📊 Data Science
+
+- Data Analysis & Visualization
+- Data Cleaning & Processing
+- Statistical Analysis
+- Predictive Modeling
+- Data-driven Decision Systems
+
+## 📝 Natural Language Processing (NLP)
+
+- Text Classification
+- Language Models
+- NLP Pipeline Development
+- Text Processing & Analysis
+- Low-resource Language AI Research
+
+## 🧠 Machine Learning
+
+- Supervised Learning
+- Unsupervised Learning
+- Model Evaluation
+- Feature Engineering
+- Algorithm Optimization
+
+---
+
+# 💻 Software Development Expertise
+
+Alongside AI and Data Science, I build production-ready software applications.
+
+## 🌐 Full Stack Development
+
+- Backend Development
+- Web Applications
+- REST APIs
+- Database Design
+- Business Management Systems
+
+## ⚙️ Development Practices
+
+- Clean Code Architecture
+- Software Engineering Principles
+- Application Deployment
+- System Design
+- Problem Solving
+
 An online learning platform helping students build careers in:
 
 - Programming
