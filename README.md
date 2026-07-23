@@ -44,6 +44,7 @@ I work at the intersection of **data, artificial intelligence, and software engi
 
 My goal is to transform ideas and real-world problems into reliable, scalable, and intelligent technology solutions.
 
+I publish professionally as **Saif Wiyar** — GitHub: **SaifWiyar**; Pashto: **سیف ویار** — and work as a Data Scientist, AI Engineer, NLP researcher, and Machine Learning specialist from Afghanistan.
 ---
 
 ## Professional Profile
