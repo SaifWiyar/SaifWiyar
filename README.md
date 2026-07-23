@@ -251,6 +251,24 @@ Research interests:
 
 </p>
 
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SaifWiyar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifWiyar&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifWiyar&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
 
 ## ⚙️ Tools & DevOps
 
