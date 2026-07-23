@@ -73,7 +73,7 @@ A technology studio focused on:
 
  ---
 
-# 🧠 Data Science & Artificial Intelligence Expertise
+# Data Science & Artificial Intelligence Expertise
 
 I work on building intelligent systems by combining **data, algorithms, and software engineering**.
 
