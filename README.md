@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Saif%20Wiyar&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Saif Wiyar Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Saif%20Wiyar&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Saif Wiyar <br>سیف ویاړ Header"/>
 
 <h2>Data Scientist · AI Engineer · Software Builder</h2>
 
