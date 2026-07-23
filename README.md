@@ -1,279 +1,321 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Saif%20Wiyar&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Saif%20Wiyar&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Saif Wiyar Header"/>
 
-<h1>
-Data Scientist | AI Engineer | Technology Builder
-</h1>
-
-<h3>
-Building Intelligent Solutions From Afghanistan 🇦🇫 For The Global Community 🌍
-</h3>
+<h2>Data Scientist · AI Engineer · Software Builder</h2>
 
 <p>
-<img <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Machine+Learning+Specialist;Deep+Learning+%26+NLP+Enthusiast;Full+Stack+Developer;Computer+Science+Lecturer;Founder+of+Saif+Tech+Studio"/>
+<strong>Building data-driven AI and software solutions from Afghanistan 🇦🇫 for the global community.</strong>
 </p>
+
+<img width="90%" src="https://readme-typing-svg.demolab.com?font=Russo+One&size=22&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&height=50&lines=Data+Scientist+%26+AI+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+Production-Ready+Web+%26+AI+Systems;Computer+Science+Lecturer+%7C+Technology+Founder" alt="Professional Roles Animation"/>
+
+<br/>
+
+<a href="https://af.linkedin.com/in/saifwiyar">
+<img src="https://img.shields.io/badge/LinkedIn-Saif%20Wiyar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:saifwiyar@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/SaifWiyar">
+<img src="https://img.shields.io/badge/GitHub-SaifWiyar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am **Saif Wiyar**, a **Data Scientist and AI Engineer from Afghanistan 🇦🇫** with a strong foundation in **Data Science, Artificial Intelligence, Machine Learning, and Software Engineering**.
+I am **Saif Wiyar**, a **Data Scientist and AI Engineer from Afghanistan** with an academic background in **Data Science and Computer Science**.
 
-I hold:
+I work at the intersection of **data, artificial intelligence, and software engineering**, developing machine-learning solutions, intelligent applications, data-driven systems, and full-stack web platforms.
 
-🎓 **Master of Data Science**  
-🎓 **Bachelor of Computer Science**
+- **Master's degree in Data Science**
+- **Bachelor's degree in Computer Science**
+- **5+ years of experience in web and software development**
+- **5+ years of teaching and technical training experience**
+- **Computer Science Lecturer at Khurasan University**
+- **Founder of Saif Tech Studio**
+- **Founder of Saif Online Academy**
 
-I specialize in designing and developing intelligent systems using:
-
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🧠 Machine Learning Model Training
-- 🔥 Deep Learning
-- 📝 Natural Language Processing (NLP)
-- 📈 Data Analytics
-- 🌐 Full Stack Web Development
-
-With **5+ years of experience in software development and technology education**, I combine academic knowledge with practical industry-focused projects.
+My goal is to transform ideas and real-world problems into reliable, scalable, and intelligent technology solutions.
 
 ---
 
-##  Professional Journey
+## Professional Profile
 
-🎓 **Computer Science Lecturer**  
-📍 Khurasan University, Afghanistan
-
-Teaching:
-
-- Web Development
-- Python Programming
-- Data Analytics
-- Artificial Intelligence
-- Machine Learning
-- NLP
-- Software Engineering
-
-
- **Founder — Saif Tech Studio**
-
-A technology studio focused on:
-
-- Software Development
-- Web Applications
-- AI Solutions
-- Machine Learning Systems
-- NLP Applications
-- Business Automation
-
-
- **Founder — Saif Online Academy**
-
- ---
-
-# Data Science & Artificial Intelligence Expertise
-
-I work on building intelligent systems by combining **data, algorithms, and software engineering**.
-
-## 🤖 Artificial Intelligence
-
-- Artificial Intelligence Engineering
-- Machine Learning Model Development
-- Deep Learning Architectures
-- AI Model Training & Optimization
-- Intelligent Automation Systems
-
-## 📊 Data Science
-
-- Data Analysis & Visualization
-- Data Cleaning & Processing
-- Statistical Analysis
-- Predictive Modeling
-- Data-driven Decision Systems
-
-## 📝 Natural Language Processing (NLP)
-
-- Text Classification
-- Language Models
-- NLP Pipeline Development
-- Text Processing & Analysis
-- Low-resource Language AI Research
-
-## 🧠 Machine Learning
-
-- Supervised Learning
-- Unsupervised Learning
-- Model Evaluation
-- Feature Engineering
-- Algorithm Optimization
+| Area | Details |
+|---|---|
+| **Primary Focus** | Data Science, Artificial Intelligence and Machine Learning |
+| **AI Specialization** | Deep Learning, NLP, model development and model training |
+| **Software Development** | Python, Django, full-stack web development and business automation |
+| **Current Academic Role** | Lecturer, Faculty of Computer Science, Khurasan University |
+| **Industry Role** | Data Scientist, AI Engineer and Software Developer |
+| **Leadership** | Founder of Saif Tech Studio and Saif Online Academy |
+| **Location** | Afghanistan 🇦🇫 |
+| **Collaboration** | Remote roles, consulting, research, training and global technology projects |
 
 ---
 
-# 💻 Software Development Expertise
+## Core Expertise
 
-Alongside AI and Data Science, I build production-ready software applications.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🌐 Full Stack Development
+### Data Science & AI
 
-- Backend Development
-- Web Applications
-- REST APIs
-- Database Design
-- Business Management Systems
+- Data analysis and visualization
+- Statistical data analysis
+- Data cleaning and preprocessing
+- Predictive modelling
+- Feature engineering
+- Machine-learning pipelines
+- Model evaluation and optimization
+- Data-driven decision systems
 
-## ⚙️ Development Practices
+</td>
 
-- Clean Code Architecture
-- Software Engineering Principles
-- Application Deployment
-- System Design
-- Problem Solving
+<td width="33%" valign="top">
 
-An online learning platform helping students build careers in:
+### Machine Learning & NLP
+
+- Supervised learning
+- Unsupervised learning
+- Deep-learning architectures
+- Natural language processing
+- Text classification
+- Language-model applications
+- NLP pipeline development
+- Low-resource language research
+
+</td>
+
+<td width="33%" valign="top">
+
+### Software Engineering
+
+- Full-stack web development
+- Python and Django development
+- REST API development
+- Database design
+- Business automation systems
+- Application deployment
+- Software architecture
+- Offline desktop applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## Roles & Leadership
+
+### Computer Science Lecturer
+
+**Khurasan University — Afghanistan**
+
+I teach and mentor students in areas including:
+
+- Web development
+- Python programming
+- Data analytics
+- Artificial intelligence
+- Machine learning
+- Natural language processing
+- Software engineering
+
+### Founder — Saif Tech Studio
+
+Saif Tech Studio develops practical technology solutions in:
+
+- Software and web application development
+- Artificial intelligence systems
+- Machine-learning applications
+- NLP solutions
+- Data-driven platforms
+- Business process automation
+
+### Founder — Saif Online Academy
+
+Saif Online Academy helps students and professionals develop practical skills in:
 
 - Programming
-- Web Development
-- Data Science
-- Artificial Intelligence
-- Machine Learning
+- Web development
+- Data analytics
+- Data science
+- Artificial intelligence
+- Machine learning
+- NLP and model training
 
 ---
 
-# Featured Projects
+## Featured Work
 
-## 🌍 AfghanLink Digital Ecosystem
+### AfghanLink Digital Ecosystem
 
-A large-scale multilingual digital ecosystem designed to connect communities through integrated online services.
+A large-scale, multilingual digital ecosystem designed to connect communities, professionals, businesses, and service providers through one integrated platform.
 
-AfghanLink brings multiple platforms together into one ecosystem:
+**Platform areas:**
 
-- 🎓 Education Portal
-- 💼 Jobs & Career Platform
-- 🛒 Marketplace
-- 🏥 Healthcare & Doctor Services
-- 🏠 Property Platform
-- 🚗 Vehicle & Transportation Services
-- 🍽️ Food Services
-- 💻 Freelancing & Skills Platform
-- 🏢 Business & Service Directory
+- Education
+- Jobs and careers
+- Marketplace
+- Skills and freelancing
+- Healthcare and doctor services
+- Property
+- Vehicles and transportation
+- Food ordering
+- Business and professional services
 
-### Technologies:
+**Technical foundation:**
 
-- Python
-- Django
-- PostgreSQL
-- Docker
-- REST APIs
-- Modern Web Architecture
-- Multilingual & RTL Support
+`Python` · `Django` · `PostgreSQL` · `Docker` · `REST APIs` · `Redis` · `Multilingual UI` · `RTL/LTR Support`
 
+The platform includes shared user accounts, role-based dashboards, advanced search, messaging, notifications, reviews, location-based discovery, verification, administration, and analytics.
 
 ---
 
-## ☀️ Raise Solar Company Management System
+### Raise Solar Company Management System
 
-A complete desktop business management application developed for solar companies to manage daily operations efficiently.
+An offline desktop business-management application developed to support the daily operations of a solar company.
 
-### Key Features:
+**Core capabilities:**
 
-- Customer Management
-- Invoice Generation
-- Expense Tracking
-- Business Records
-- Reports Dashboard
-- Offline Desktop Deployment
+- Customer and installer management
+- Invoice generation
+- Expense management
+- Business record keeping
+- Dashboard search
+- Reporting
+- Refund management
+- Offline desktop deployment
 
-### Technologies:
+**Technology stack:**
 
-- Python
-- Django
-- SQLite
-- Bootstrap
-- JavaScript
-
+`Python` · `Django` · `SQLite` · `Bootstrap` · `JavaScript` · `HTML` · `CSS`
 
 ---
 
-## 🤖 AI & NLP Research Projects
+### AI & NLP Research
 
-Working on Artificial Intelligence solutions focusing on:
+My research interests focus on using AI and language technology to solve practical educational and social challenges.
 
-- Natural Language Processing
-- Machine Learning Models
-- Language Technology
-- Data-driven Applications
-- AI-powered Education Systems
+**Current areas of interest:**
 
-Research interests:
-
-- Low-resource language processing
-- NLP for regional languages
-- Intelligent learning systems
+- Machine-learning model development
+- Natural language processing
+- Low-resource language technology
+- Pashto and Dari language processing
+- Text classification
+- Dataset construction and annotation
+- Adaptive AI-powered learning systems
+- Inclusive education technology
 
 ---
 
-# 🛠️ Technology Stack
+## Technology Stack
 
-## 👨‍💻 Programming Languages
+### Programming Languages
 
-<p align="left">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming Languages"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,sql" />
+### Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,react,bootstrap,nodejs" alt="Web Development Technologies"/>
+</p>
+
+### Artificial Intelligence & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI and Machine Learning Technologies"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/NLP-NLTK%20%7C%20spaCy%20%7C%20Transformers-334155?style=flat-square" alt="NLP Tools"/>
 
 </p>
 
+### Databases, Tools & DevOps
 
-## 🌐 Web Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=django,react,bootstrap,nodejs" />
-
-</p>
-
-
-## 🤖 Data Science & Artificial Intelligence
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
-
-</p>
-
-
-## 📊 Data Analysis & Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,postgres,mysql,sqlite" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,vscode" alt="Databases and Development Tools"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaifWiyar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifWiyar&theme=github_dark" alt="Saif Wiyar GitHub Profile Details"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifWiyar&theme=tokyonight&hide_border=true" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaifWiyar&theme=github_dark" alt="Saif Wiyar GitHub Statistics"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifWiyar&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaifWiyar&theme=github_dark" alt="Saif Wiyar Repository Languages"/>
 
 </div>
 
+> GitHub statistics reflect public repository activity and will develop as more projects, documentation, research code, and open-source work are published.
 
-## ⚙️ Tools & DevOps
+---
 
-<p align="left">
+## What I Bring to a Project
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+- A strong academic foundation in **Data Science and Computer Science**
+- Practical experience building real-world software products
+- Ability to connect AI models with production-ready applications
+- Experience teaching complex technical concepts clearly
+- Leadership experience through technology and education initiatives
+- A commitment to responsible, useful, and accessible technology
 
-</p>
+---
+
+## Global Collaboration
+
+I am open to meaningful opportunities involving:
+
+- Data Science and AI engineering
+- Machine Learning and NLP projects
+- Full-stack and Django development
+- Software and business automation
+- Technical consulting
+- Research collaboration
+- Remote employment
+- Corporate and academic training
+
+<div align="center">
+
+### Let us build intelligent technology that creates measurable impact.
+
+<a href="https://af.linkedin.com/in/saifwiyar">
+<img src="https://img.shields.io/badge/Professional%20Network-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="mailto:saifwiyar@gmail.com">
+<img src="https://img.shields.io/badge/Project%20Inquiry-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email"/>
+</a>
+
+<br/><br/>
+
+<strong>From Afghanistan 🇦🇫 — building data-driven solutions for global impact.</strong>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer"/>
