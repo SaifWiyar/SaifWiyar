@@ -65,6 +65,7 @@ My goal is to transform ideas and real-world problems into reliable, scalable, a
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### Data Science & AI
@@ -109,6 +110,7 @@ My goal is to transform ideas and real-world problems into reliable, scalable, a
 - Offline desktop applications
 
 </td>
+
 </tr>
 </table>
 
@@ -224,28 +226,39 @@ My research interests focus on using AI and language technology to solve practic
 ### Programming Languages
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming Languages"/>
+
 </p>
 
 ### Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,react,bootstrap,nodejs" alt="Web Development Technologies"/>
+
+<img src="https://skillicons.dev/icons?i=django,bootstrap" alt="Web Development Technologies"/>
+
 </p>
 
 ### Artificial Intelligence & Machine Learning
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI and Machine Learning Technologies"/>
+
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" alt="Hugging Face"/>
+
 <img src="https://img.shields.io/badge/NLP-NLTK%20%7C%20spaCy%20%7C%20Transformers-334155?style=flat-square" alt="NLP Tools"/>
 
 </p>
@@ -253,26 +266,74 @@ My research interests focus on using AI and language technology to solve practic
 ### Databases, Tools & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,vscode" alt="Databases and Development Tools"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,git,github,linux,vscode" alt="Databases and Development Tools"/>
+
 </p>
 
 ---
 
-## GitHub Analytics
+## GitHub Activity & Portfolio
+
+My GitHub profile is continuously developing as I publish software projects, AI experiments, research implementations, technical documentation, and open-source work.
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifWiyar&theme=github_dark" alt="Saif Wiyar GitHub Profile Details"/>
+<a href="https://github.com/SaifWiyar?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/SaifWiyar?tab=projects">
+<img src="https://img.shields.io/badge/View%20Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
+</a>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaifWiyar&theme=github_dark" alt="Saif Wiyar GitHub Statistics"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaifWiyar&theme=github_dark" alt="Saif Wiyar Repository Languages"/>
+<a href="https://github.com/SaifWiyar">
+<img src="https://img.shields.io/badge/View%20Contributions-2DA44E?style=for-the-badge&logo=github&logoColor=white" alt="View Contributions"/>
+</a>
 
 </div>
 
-> GitHub statistics reflect public repository activity and will develop as more projects, documentation, research code, and open-source work are published.
+<br/>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+<strong>Software Projects</strong>
+
+<br/>
+
+Business systems, web applications and digital platforms
+
+</td>
+
+<td align="center" width="33%">
+
+<strong>Data Science & AI</strong>
+
+<br/>
+
+Machine learning, NLP, data analysis and intelligent systems
+
+</td>
+
+<td align="center" width="33%">
+
+<strong>Research & Education</strong>
+
+<br/>
+
+Research implementations, datasets and teaching resources
+
+</td>
+
+</tr>
+
+</table>
+
+> Public repositories will be added progressively with clear documentation, installation instructions, technology stacks, screenshots and project demonstrations.
 
 ---
 
