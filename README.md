@@ -11,7 +11,7 @@ Building Intelligent Solutions From Afghanistan 🇦🇫 For The Global Communit
 </h3>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Machine+Learning+Specialist;Deep+Learning+%26+NLP+Enthusiast;Full+Stack+Developer;Computer+Science+Lecturer;Founder+of+Saif+Tech+Studio"/>
+<img <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Machine+Learning+Specialist;Deep+Learning+%26+NLP+Enthusiast;Full+Stack+Developer;Computer+Science+Lecturer;Founder+of+Saif+Tech+Studio"/>
 </p>
 
 </div>
