@@ -211,3 +211,51 @@ Research interests:
 - Low-resource language processing
 - NLP for regional languages
 - Intelligent learning systems
+
+---
+
+# 🛠️ Technology Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,sql" />
+
+</p>
+
+
+## 🌐 Web Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=django,react,bootstrap,nodejs" />
+
+</p>
+
+
+## 🤖 Data Science & Artificial Intelligence
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+
+</p>
+
+
+## 📊 Data Analysis & Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,postgres,mysql,sqlite" />
+
+</p>
+
+
+## ⚙️ Tools & DevOps
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
+</p>
