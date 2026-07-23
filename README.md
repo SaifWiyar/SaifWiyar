@@ -41,7 +41,7 @@ With **5+ years of experience in software development and technology education**
 
 ---
 
-## 🚀 Professional Journey
+##  Professional Journey
 
 🎓 **Computer Science Lecturer**  
 📍 Khurasan University, Afghanistan
@@ -57,7 +57,7 @@ Teaching:
 - Software Engineering
 
 
-🚀 **Founder — Saif Tech Studio**
+ **Founder — Saif Tech Studio**
 
 A technology studio focused on:
 
@@ -69,7 +69,7 @@ A technology studio focused on:
 - Business Automation
 
 
-🚀 **Founder — Saif Online Academy**
+ **Founder — Saif Online Academy**
 
 An online learning platform helping students build careers in:
 
